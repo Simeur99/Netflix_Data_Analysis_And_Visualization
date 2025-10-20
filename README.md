@@ -1,7 +1,7 @@
 
 # Netflix Data Analysis and Visualization
 
-This project contains a Jupiter Notebook with Python scripts and R scripts used to analyze and visualize data in the Netflix dataset provided.
+This project contains a Jupiter Notebook with Python scripts and R scripts used to analyze and visualize the top-rated movies and most-watched genres in the Netflix dataset provided.
 
 ## System Requirements
 - Jupiter Notebook (recommended)
