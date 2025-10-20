@@ -33,4 +33,4 @@ This project contains a Jupiter Notebook with Python scripts and R scripts used 
 - netflix_analysis.ipynb: Jupyter notebook
 - r_visualizations.r: R script
 - README.md
-- netflix_data.csv.zip: source folder containing the details of movies and shows on Netflix.
+- netflix_data.zip: source folder containing the details of movies and shows on Netflix.
