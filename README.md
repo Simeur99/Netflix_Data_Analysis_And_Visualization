@@ -24,13 +24,13 @@ This project contains a Jupiter Notebook with Python scripts and R scripts used 
 
 ## Running the R Script
 1. First, make sure to run the scripts in the Jupiter notebook to get the Netflix_shows_movies.csv located in the netflix_data folder. 
-2. From your local computer,open the R script file 'Employee_salary.r'  using RStudio.
+2. From your local computer, open the R script file 'r_visualization.r'  using RStudio.
 3. Run the script
 4. Follow the prompt to install necessary packages (if prompted)
 5. The plot view will show a bar chart of the ratings distribution.
 
 ## Files Included
 - netflix_analysis.ipynb: Jupyter notebook
-- r_visualizations.r: R script
+- r_visualization.r: R script
 - README.md
 - netflix_data.zip: source folder containing the details of movies and shows on Netflix.
